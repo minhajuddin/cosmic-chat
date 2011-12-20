@@ -1,9 +1,10 @@
 {
-    "name": "application-name"
+    "name": "cosmic-chat"
   , "version": "0.0.1"
   , "private": true
   , "dependencies": {
       "express": "2.5.2"
     , "jade": ">= 0.0.1"
+    , "connect-redis": ">= 1.0.0"
   }
 }
